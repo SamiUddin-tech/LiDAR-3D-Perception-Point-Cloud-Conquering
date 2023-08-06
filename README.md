@@ -1,9 +1,9 @@
 # LiDAR-Point-Cloud
 
-## Point Cloud Visualization
+## LiDAR Point Cloud Visualization
 
 
-## 3D Lane Line Detection
+## 3D Lane Line Detection LiDAR Point Cloud
 
 The Lane Line Detection pipeline is based on Threshold and Region of Interest (ROI) techniques to detect lane lines.
 The Threshold Technique: At the core of our solution lies intelligent data processing. By implementing the Threshold Technique, extracted the most relevant lane line points from the LiDAR Point Cloud data.
