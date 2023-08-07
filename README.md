@@ -7,7 +7,7 @@
 
 The Lane Line Detection pipeline is based on Threshold and Region of Interest (ROI) techniques to detect lane lines.
 
-1. The Threshold Technique: At the core of our solution lies intelligent data processing. By implementing the Threshold Technique, extracted the most relevant lane line points from the LiDAR Point Cloud data.
+1. The Threshold Technique: By implementing the Threshold Technique, extracted the most relevant lane line points from the LiDAR Point Cloud data.
 
 2. The Region of Interest (ROI) Technique: To enhance the Lane Line Detection pipeline's performance, Region of Interest Technique is applied on output obtained from Threshold technique.
 
