@@ -3,7 +3,7 @@
 ## LiDAR Point Cloud Visualization
 
 
-## 3D Lane Line Detection with LiDAR Point Cloud
+## 3D Lane Line Detection with Thresholding and ROI Techniques - LiDAR Point Cloud
 
 The Lane Line Detection pipeline is based on Threshold and Region of Interest (ROI) techniques to detect lane lines.
 
@@ -16,5 +16,7 @@ The Lane Line Detection pipeline is based on Threshold and Region of Interest (R
 Watch on Youtube: https://youtu.be/v7u8H33QNxs
 
 Watch on LinkedIn: https://www.linkedin.com/posts/sami-uddin-a6b40b20a_3dperception-lidar-lanelinedetection-activity-7094165411256049664-vb3r?utm_source=share&utm_medium=member_desktop 
+
+## 3D Object Detection with PCA - LiDAR Point Cloud
 
 ## Ungutting - Raspberry Pi LiDAR A1 360 Laser Range Scanner
