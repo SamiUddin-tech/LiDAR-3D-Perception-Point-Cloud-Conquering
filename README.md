@@ -19,4 +19,4 @@ Watch on LinkedIn: https://www.linkedin.com/posts/sami-uddin-a6b40b20a_3dpercept
 
 ## 3D Object Detection with PCA - LiDAR Point Cloud
 
-## Ungutting - Raspberry Pi LiDAR A1 360 Laser Range Scanner
+## Breakdown of Raspberry Pi LiDAR A1 360 Laser Range Scanner
