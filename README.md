@@ -13,7 +13,7 @@ The Lane Line Detection pipeline is based on Threshold and Region of Interest (R
 
 ![3D_Lane_Line_Detection](https://github.com/SamiUddin-tech/LiDAR-Point-Cloud/assets/81253183/34b73562-abe5-4079-b7d6-7c8cdc84739c)
 
-Watch on Youtube: https://youtu.be/v7u8H33QNxs
+Watch on [Youtube](https://youtu.be/v7u8H33QNxs) 
 
 Watch on LinkedIn: https://www.linkedin.com/posts/sami-uddin-a6b40b20a_3dperception-lidar-lanelinedetection-activity-7094165411256049664-vb3r?utm_source=share&utm_medium=member_desktop 
 
